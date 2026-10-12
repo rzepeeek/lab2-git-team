@@ -9,3 +9,5 @@ Nazwa zespołu: zlomany
 Życie jest warte tego co puszka
 
 ## Ulubione technologie
+
+Kontuwka
