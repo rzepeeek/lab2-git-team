@@ -11,3 +11,5 @@ Dawid
 Życie jest warte tego co puszka
 
 ## Ulubione technologie
+
+Kontuwka
