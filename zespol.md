@@ -8,7 +8,7 @@ Dawid
 
 ## Motto
 
-Życie jest warte tego co puszka
+Życie jest warte tyle co puszka
 
 ## Ulubione technologie
 
