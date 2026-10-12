@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: zlomany
+Nazwa zespołu: zlomany 
 
 ## Skład
 
@@ -8,7 +8,7 @@ Dawid
 
 ## Motto
 
-Życie jest warte tego co puszka
+Życie jest warte, tyle co puszka.
 
 ## Ulubione technologie
 
