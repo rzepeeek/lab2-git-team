@@ -6,4 +6,4 @@ Orli kiel to najlepsza ulica.
 
 ## Hobby
 
-gra w koszykuwka
+gra w koszykówka
