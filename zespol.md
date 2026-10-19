@@ -17,3 +17,5 @@ Dawid
 ## Ulubione technologie
 
 Kontuwka
+
+19.10.2026
