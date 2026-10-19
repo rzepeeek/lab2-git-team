@@ -1,3 +1,6 @@
+##Naglowek
+PC
+
 # Zespół
 
 Nazwa zespołu: zlomany
